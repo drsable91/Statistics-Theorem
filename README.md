@@ -1,2 +1,2 @@
 # Statistics-Theorem
-Three types of theorem (Addition, Multiplication &amp; Bayes ) 
+Theorem and Their Types (Addition, Multiplication &amp; Bayes ) 
